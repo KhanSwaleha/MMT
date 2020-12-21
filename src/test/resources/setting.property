@@ -1,0 +1,5 @@
+chromeBrowser=chrome
+firefoxBrowser=firefox
+url=https://www.makemytrip.com/
+#Here Every Thing is Key & Value Pair
+implicit.wait=20
